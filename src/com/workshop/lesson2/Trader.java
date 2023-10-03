@@ -1,4 +1,4 @@
-package com.nielseniq.lesson2;
+package com.workshop.lesson2;
 
 public class Trader{
     private final String name;

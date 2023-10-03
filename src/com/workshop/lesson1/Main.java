@@ -1,4 +1,4 @@
-package com.nielseniq.lesson1;
+package com.workshop.lesson1;
 
 import java.util.Arrays;
 import java.util.List;

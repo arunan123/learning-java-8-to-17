@@ -1,4 +1,4 @@
-package com.nielseniq.behaviourparam;
+package com.workshop.behaviourparam;
 
 import java.util.ArrayList;
 import java.util.Arrays;

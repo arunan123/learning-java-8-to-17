@@ -1,4 +1,4 @@
-package com.nielseniq.lesson3;
+package com.workshop.lesson3;
 
 import java.util.function.Function;
 import java.util.stream.Stream;

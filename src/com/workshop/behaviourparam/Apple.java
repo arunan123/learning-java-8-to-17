@@ -1,4 +1,4 @@
-package com.nielseniq.behaviourparam;
+package com.workshop.behaviourparam;
 
 public class Apple {
     int weight;

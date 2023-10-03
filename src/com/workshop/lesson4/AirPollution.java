@@ -1,4 +1,4 @@
-package com.nielseniq.lesson4;
+package com.workshop.lesson4;
 
 public class AirPollution {
     public int getDamage() {

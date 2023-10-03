@@ -1,4 +1,4 @@
-package com.nielseniq.lesson1;
+package com.workshop.lesson1;
 
 public class Car {
     private int weight;
